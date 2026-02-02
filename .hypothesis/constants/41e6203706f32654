@@ -1,0 +1,4 @@
+# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\keras\src\distillation\distiller.py
+# hypothesis_version: 6.150.2
+
+[0.0, 0.5, 1.0, 'adam', 'distillation_loss', 'distillation_losses', 'distiller', 'final_output', 'input', 'inputs', 'output', 'outputs', 'shape', 'student', 'student_layer_name', 'student_loss', 'student_loss_weight', 'teacher', 'teacher_layer_name', 'total_loss']

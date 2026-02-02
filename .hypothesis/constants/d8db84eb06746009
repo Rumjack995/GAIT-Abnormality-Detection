@@ -1,0 +1,4 @@
+# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tensorflow\python\framework\indexed_slices.py
+# hypothesis_version: 6.150.2
+
+[100000000, '%s_%d', ', dense_shape=%s', 'IndexedSlices', 'IndexedSlicesSpec', 'IndexedSlicesValue', '_dense_shape_dtype', '_indices_dtype', '_indices_shape', '_shape', '_values_dtype', 'dense_shape', 'indices', 'values']

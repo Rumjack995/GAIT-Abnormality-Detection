@@ -1,0 +1,4 @@
+# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\keras\src\backend\tensorflow\trainer.py
+# hypothesis_version: 6.150.2
+
+[0.0, 'MEAN', 'SUM', 'TPUStrategy', '__len__', '_eval_epoch_iterator', 'auto', 'concat', 'evaluate', 'first', 'fit', 'mean', 'outputs', 'sum', 'test_on_batch', 'train_on_batch']

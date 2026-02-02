@@ -1,0 +1,4 @@
+# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\absl\testing\xml_reporter.py
+# hypothesis_version: 6.150.2
+
+['    </properties>\n', '    <properties>\n', '  </testcase>\n', ' %s="%s"', '"', '%.3f', '%d', '%s', '%s<%s', '&#x20;', '&#x9;', '&#xA;', '&#xD;', '&apos;', '&quot;', "'", '.', '</testsuite>\n', '</testsuites>\n', '>\n', 'EXPECTED_FAILURE', ']] >', ']]>', '^(\\w+) \\((\\S+)\\)$', '_ErrorHolder', 'classname', 'completed', 'error', 'errors', 'failure', 'failures', 'name', 'notrun', 'recordProperty', 'result', 'run', 'start_time', 'status', 'suppressed', 'testcase', 'tests', 'testsuite', 'testsuites', 'time', 'timestamp']

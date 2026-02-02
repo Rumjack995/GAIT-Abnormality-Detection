@@ -1,0 +1,4 @@
+# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tensorflow\python\ops\functional_ops.py
+# hypothesis_version: 6.150.2
+
+['%s_Body', '%s_Cond', '%s_Wrapper', '_input_hostmem', '_output_hostmem', 'elem', 'foldl', 'foldr', 'scan']

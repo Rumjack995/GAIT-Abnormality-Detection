@@ -1,0 +1,4 @@
+# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tensorflow\python\keras\models.py
+# hypothesis_version: 6.150.2
+
+['_feed_input_names', '_feed_input_shapes', '_feed_inputs', '_layers', '_output_loss_metrics', '_training_endpoints', 'input_wrapper_for_', 'inputs', 'layers', 'metrics', 'optimizer', 'outputs', 'predict_function', 'submodules', 'target_tensors', 'test_function', 'total_loss', 'train_function', 'weighted_metrics']

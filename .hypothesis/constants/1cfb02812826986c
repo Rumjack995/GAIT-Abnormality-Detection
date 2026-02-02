@@ -1,0 +1,4 @@
+# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tensorflow\python\ops\sets_impl.py
+# hypothesis_version: 6.150.2
+
+['SetSize', 'a', 'a-b', 'b', 'b-a', 'intersection', 'sets.difference', 'sets.intersection', 'sets.set_difference', 'sets.set_size', 'sets.set_union', 'sets.size', 'sets.union', 'union']

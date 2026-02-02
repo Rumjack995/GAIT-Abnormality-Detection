@@ -1,0 +1,4 @@
+# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tensorflow\python\distribute\failure_handling\failure_handling.py
+# hypothesis_version: 6.150.2
+
+['%s set to %s', '1', 'RECEIVED_SIGNAL', 'RUN_TO_CHECKPOINT', 'STOP_WATCHER', 'TERMINATED_WORKER', 'checkpointed_runs', 'ps', 'single_worker', 'workertemp_']

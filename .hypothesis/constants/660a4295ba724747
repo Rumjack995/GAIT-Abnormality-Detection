@@ -1,0 +1,4 @@
+# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tensorflow\python\ops\data_flow_grad.py
+# hypothesis_version: 6.150.2
+
+['DeleteSessionTensor', 'DynamicPartition', 'DynamicStitch', 'GetSessionHandle', 'GetSessionHandleV2', 'GetSessionTensor', 'Queue', 'QueueClose', 'QueueDequeue', 'QueueDequeueMany', 'QueueDequeueUpTo', 'QueueEnqueue', 'QueueEnqueueMany', 'QueueSize', 'Stack', 'StackClose', 'StackPop', 'StackPush', 'num_partitions']

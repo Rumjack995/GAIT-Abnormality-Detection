@@ -1,0 +1,4 @@
+# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\mediapipe\modules\objectron\calculators\a_r_capture_metadata_pb2.py
+# hypothesis_version: 6.150.2
+
+[b'\x10\x01', 454, 457, 941, 1003, 1005, 1056, 1059, 1296, 1346, 1349, 1734, 1789, 1791, 1878, 1881, 2034, 2037, 2291, 2332, 2334, 2375, 2378, 2451, 2524, 2527, 2675, 2678, 3112, 3115, 3567, 3613, 3615, 3671, 3673, 3759, 3761, 3847, 3850, 3951, 3991, 3994, 4332, '_ARBLENDSHAPEMAP', '_ARCAMERA', '_ARFACEANCHOR', '_ARFACEGEOMETRY', '_ARFRAME', '_ARLIGHTESTIMATE', '_ARPLANEANCHOR', '_ARPLANEGEOMETRY', '_ARPOINTCLOUD', '_ARPOINTCLOUD_POINT', '_AVDEPTHDATA', '_AVDEPTHDATA_QUALITY', 'extrinsic_matrix', 'identifier', 'intrinsic_matrix', 'intrinsics', 'projection_matrix', 'transform', 'triangle_indices', 'view_matrix']

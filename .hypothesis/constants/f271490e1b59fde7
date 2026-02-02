@@ -1,0 +1,4 @@
+# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tensorflow\python\ops\signal\mel_ops.py
+# hypothesis_version: 6.150.2
+
+[0.0, 1.0, 2.0, 125.0, 700.0, 1127.0, 3800.0, 129, 8000, 'hertz_to_mel', 'lower_edge_hertz', 'mel_to_hertz', 'sample_rate', 'upper_edge_hertz']

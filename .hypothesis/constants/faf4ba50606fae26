@@ -1,0 +1,4 @@
+# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\opt_einsum\contract.py
+# hypothesis_version: 6.150.2
+
+[',', '-', '->', '.', '...', 'BLAS', 'ContractExpression', 'EINSUM', 'K', '],[', '_constants_dict', '_gen_expression', 'auto', 'backend', 'casting', 'contract', 'contract_path', 'current', 'dtype', 'einsum', 'einsum_call', 'max_input', 'numpy', 'order', 'out', 'remaining', 'safe', 'scaling', 'shape_only', 'tensordot', 'transpose', '{}{}{}']

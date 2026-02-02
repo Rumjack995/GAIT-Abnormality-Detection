@@ -1,0 +1,4 @@
+# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\absl\testing\_pretty_print_reporter.py
+# hypothesis_version: 6.150.2
+
+['       OK ', '  FAILED  ', '  SKIPPED ', ' RUN      ', '[%s] %s', '[%s] %s - %s', '__main__.']

@@ -1,0 +1,4 @@
+# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tensorflow\python\tpu\client\client.py
+# hypothesis_version: 6.150.2
+
+[404, 1200, '%Y-%m-%dT%H:%M:%S', ',', '.', '/', '/{}?restartType={}', '8470', ':', 'GCE_METADATA_HOST', 'GCE_METADATA_IP', 'Google', 'HBM_OUT_OF_MEMORY', 'HEALTHY', 'Metadata-Flavor', 'OUT_OF_MEMORY', 'PREEMPTED', 'READY', 'Symptom: ', 'TERMINATED', 'TPU "%s" is healthy.', 'TPU_CONFIG', 'TPU_NAME', 'acceleratorType', 'always', 'createTime', 'currentVersion', 'default', 'grpc://', 'hbm_oom_exit', 'health', 'http://', 'instance/zone', 'ipAddress', 'networkEndpoints', 'port', 'project', 'project/project-id', 'runtime_oom_exit', 'state', 'symptomType', 'symptoms', 'tensorflowVersion', 'tpu', 'tpu_node_name', 'utf-8', 'v1', 'zone']

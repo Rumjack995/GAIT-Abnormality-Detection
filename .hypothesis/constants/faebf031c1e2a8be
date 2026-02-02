@@ -1,0 +1,4 @@
+# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\keras\src\legacy\preprocessing\text.py
+# hypothesis_version: 6.150.2
+
+['binary', 'char_level', 'class_name', 'config', 'count', 'document_count', 'filters', 'freq', 'index_docs', 'index_word', 'lower', 'md5', 'nb_words', 'num_words', 'oov_token', 'split', 'tfidf', 'word_counts', 'word_docs', 'word_index']

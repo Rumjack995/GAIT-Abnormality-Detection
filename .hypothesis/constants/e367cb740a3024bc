@@ -1,0 +1,4 @@
+# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tensorflow\python\ops\state_ops.py
+# hypothesis_version: 6.150.2
+
+['/', '2018-11-29', 'Variable', 'assign', 'assign_add', 'assign_sub', 'batch_scatter_update', 'count_up_to', 'indices', 'init', 'scatter_add', 'scatter_div', 'scatter_max', 'scatter_min', 'scatter_mul', 'scatter_nd_add', 'scatter_nd_sub', 'scatter_nd_update', 'scatter_sub', 'scatter_update', 'value']

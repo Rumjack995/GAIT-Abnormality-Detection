@@ -1,0 +1,4 @@
+# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tensorflow\python\ops\critical_section_ops.py
+# hypothesis_version: 6.150.2
+
+['CriticalSection', 'MutexV2', '_ExecutionSignature', '_class', 'critical_sections', 'handle', 'op', 'resources', 'shared_name']

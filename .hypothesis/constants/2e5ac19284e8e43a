@@ -1,0 +1,4 @@
+# file: C:\Users\ytpsy\Desktop\Projects\major project v1\gait_analysis\training\model_trainer.py
+# hypothesis_version: 6.150.2
+
+[0.0, 1e-07, 0.001, 0.2, 0.5, 1.0, 128, 224, 1024, '3dcnn', 'accuracy', 'adam', 'architecture', 'batch', 'best_epoch', 'checkpoints', 'config', 'dataset', 'epoch', 'epochs_trained', 'final_accuracy', 'history', 'hybrid', 'inference_time', 'logs/', 'loss', 'lstm', 'model', 'model_path', 'model_size_mb', 'models/', 'overall', 'performance_metrics', 'status', 'timestamp', 'train_model', 'training_config', 'training_history', 'training_time', 'val_accuracy', 'val_loss', 'w']

@@ -1,0 +1,4 @@
+# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\keras\src\layers\preprocessing\text_vectorization.py
+# hypothesis_version: 6.150.2
+
+['UTF-8', 'binary', 'character', 'count', 'encoding', 'has_input_vocabulary', 'idf_weights', 'int', 'int64', 'lower', 'max_tokens', 'multi_hot', 'ngrams', 'one_hot', 'output_mode', 'pad_to_max_tokens', 'ragged', 'sparse', 'split', 'standardize', 'string', 'strip_punctuation', 'tensorflow', 'tf-idf', 'tf_idf', 'utf-8', 'vocabulary', 'vocabulary_size', 'whitespace']

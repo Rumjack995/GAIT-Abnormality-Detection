@@ -1,0 +1,80 @@
+# Gait Abnormality Detection System Configuration
+
+# Video Processing Settings
+video:
+  supported_formats: [".mp4", ".avi", ".mov"]
+  min_resolution: [640, 480]  # width, height
+  min_duration: 5.0  # seconds
+  max_duration: 120.0  # seconds
+  target_fps: 30
+  frame_extraction_interval: 1  # extract every N frames
+
+# Pose Estimation Settings
+pose:
+  confidence_threshold: 0.5
+  tracking_confidence: 0.5
+  detection_confidence: 0.5
+  max_num_poses: 1
+  keypoint_count: 33
+
+# Model Training Settings
+training:
+  batch_size: 2  # Optimized for RTX 4050 (6GB VRAM)
+  epochs: 100
+  learning_rate: 0.001
+  validation_split: 0.2
+  early_stopping_patience: 10
+  reduce_lr_patience: 5
+  mixed_precision: true  # Enable FP16 for memory efficiency
+
+# Model Architecture Settings
+models:
+  # 3D-CNN Architecture
+  cnn_3d:
+    filters: [16, 32, 64]  # Reduced for memory efficiency
+    kernel_size: [3, 3, 3]
+    pool_size: [2, 2, 2]
+    dropout_rate: 0.3
+    
+  # LSTM Architecture
+  lstm:
+    units: 64  # Reduced from 128 for memory efficiency
+    layers: 1
+    bidirectional: true
+    attention: true
+    dropout_rate: 0.3
+    
+  # Hybrid CNN-LSTM
+  hybrid:
+    cnn_backbone: "MobileNetV2"
+    lstm_units: 64
+    fusion_method: "concatenate"
+    dropout_rate: 0.3
+
+# Feature Extraction Settings
+features:
+  sequence_length: 30  # frames
+  normalization: "z_score"
+  augmentation:
+    rotation_range: 10  # degrees
+    scale_range: 0.1
+    temporal_jitter: 0.1
+
+# Analysis Settings
+analysis:
+  confidence_threshold: 0.7
+  uncertainty_threshold: 0.3
+  gait_cycle_detection: "heel_strike"
+  
+# Hardware Settings
+hardware:
+  use_gpu: true
+  gpu_memory_limit: 6144  # MB (6GB for RTX 4050)
+  cpu_threads: 8
+
+# Paths
+paths:
+  data_dir: "data"
+  models_dir: "models"
+  logs_dir: "logs"
+  notebooks_dir: "notebooks"

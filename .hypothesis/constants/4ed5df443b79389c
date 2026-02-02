@@ -1,0 +1,4 @@
+# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tensorflow\python\eager\imperative_grad.py
+# hypothesis_version: 6.150.2
+
+['VSpace', 'aggregate_fn', 'graph_shape_fn', 'num_elements_fn', 'ones_fn', 'ones_like_fn', 'zeros_fn', 'zeros_like_fn']

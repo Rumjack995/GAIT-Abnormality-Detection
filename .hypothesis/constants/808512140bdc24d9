@@ -1,0 +1,4 @@
+# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tensorflow\python\ops\ref_variable.py
+# hypothesis_version: 6.150.2
+
+[100, 'Initializer', 'Variable', '_class', 'aggregation', 'caching_device', 'collections', 'constraint', 'distribute_strategy', 'dtype', 'expected_shape', 'import_scope', 'initial_value', 'initial_value_name', 'loc:@%s', 'name', 'read', 'save_slice_info_def', 'shape', 'synchronization', 'trainable', 'use_resource', 'validate_shape', 'variable_def']

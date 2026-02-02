@@ -1,0 +1,4 @@
+# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tensorflow\python\distribute\sharded_variable.py
+# hypothesis_version: 6.150.2
+
+[256, 'ShardedVariable', '__getitem__', '_variable_specs', 'div', 'embedding_lookup', 'mean', 'mod', 'part_0', 'sharded', '{}/part_{}']

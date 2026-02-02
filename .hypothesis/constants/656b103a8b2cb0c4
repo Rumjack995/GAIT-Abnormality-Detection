@@ -1,0 +1,4 @@
+# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tensorflow\python\compiler\xla\xla.py
+# hypothesis_version: 6.150.2
+
+['  %s (%s)', '%s %d argument%s', '... and %d more', '/pivot', 'AudioSummary', 'AudioSummaryV2', 'HistogramSummary', 'ImageSummary', 'MergeSummary', 'Placeholder', 'Print', 'ScalarSummary', 'TensorSummary', 'TensorSummaryV2', '__attrs_attrs__', '_xla_compile_id', 'at least', 'at most', 'cluster', 'exactly', 'input_{}', 'output_%d', 'output_0', 'output{}', 's']

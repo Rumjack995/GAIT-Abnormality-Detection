@@ -1,0 +1,4 @@
+# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tensorflow\python\distribute\coordinator\cluster_coordinator.py
+# hypothesis_version: 6.150.2
+
+[1.25, 256, 1024, 3600, '(unknown)', '/job:', '/job:worker', '0', ':', 'Stopping queue', 'Stopping workers', '_concrete_function', '_has_initialized', 'closure_execution', 'function_tracing', 'inflight_closures', 'ps', 'queued_closures', 'remote_value_fetch', 'server_def_update', 'unknown device', 'worker', 'worker_failures']

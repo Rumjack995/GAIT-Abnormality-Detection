@@ -1,0 +1,4 @@
+# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tensorflow\python\ops\linalg\sparse\sparse_csr_matrix_ops.py
+# hypothesis_version: 6.150.2
+
+['CSRSparseMatrix', 'DenseShapeAndType', 'SparseMatrix', 'SparseMatrixMatMul', '_', '_handle_data', 'dense_shape_and_type', 'dtype', 'matmul', 'shape']

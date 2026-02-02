@@ -1,0 +1,4 @@
+# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tensorflow\python\distribute\input_lib.py
+# hypothesis_version: 6.150.2
+
+[1000000, '  %d %s: %s', '%s:{\n%s}', '%s_%s_%d', ',\n', '_cardinality', '_create_empty_value', '_devices', '_element_spec', '_input_workers', '_options', '_strategy', '_worker', 'strategy', 'workers']

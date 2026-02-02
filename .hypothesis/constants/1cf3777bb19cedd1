@@ -1,0 +1,4 @@
+# file: C:\Users\ytpsy\Desktop\Projects\major project v1\gait_analysis\models\hybrid_cnn_lstm.py
+# hypothesis_version: 6.150.2
+
+[1e-07, 0.001, 0.2, 0.3, 0.5, 0.9, 1.0, 128, 224, 1000, 'FusionLayer', 'Model not built yet', 'accuracy', 'adam', 'avg', 'best_hybrid_model.h5', 'class_probabilities', 'classifier_dense', 'classifier_dropout', 'confidence', 'feature_dim', 'feature_fusion', 'float32', 'fps_capability', 'fused_features', 'fusion_attention', 'fusion_bn', 'fusion_dim', 'fusion_dropout', 'hybrid_cnn_lstm', 'imagenet', 'inf', 'inference_time_ms', 'input_shape', 'lstm_units', 'mixed_float16', 'predicted_class', 'predictions', 'relu', 'return_sequences', 'rmsprop', 'sgd', 'softmax', 'spatial_extractor', 'spatial_features', 'spatial_proj', 'temporal_extractor', 'temporal_lstm', 'temporal_proj', 'trainable_backbone', 'val_accuracy', 'val_loss', 'video_sequence_input']

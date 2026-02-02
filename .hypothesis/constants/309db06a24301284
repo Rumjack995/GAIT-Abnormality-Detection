@@ -1,0 +1,4 @@
+# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tensorflow\python\client\session.py
+# hypothesis_version: 6.150.2
+
+[30.0, '2023-06-01', 'GetSessionHandle', 'GetSessionHandleV2', 'InteractiveSession', 'Session', 'SessionCloseThread', '__attrs_attrs__', 'graph', 'partial_run', 'partial_run_setup', 'run', 'run_metadata', 'sess_str']

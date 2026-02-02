@@ -1,0 +1,4 @@
+# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tensorflow\python\ops\ragged\ragged_array_ops.py
+# hypothesis_version: 6.150.2
+
+[956888297470, 'Bitcast', 'D', 'R', 'RaggedCross', 'RaggedExpandDims', 'RaggedFillEmptyRows', 'RaggedMask', 'RaggedOneHot', 'RaggedRank', 'RaggedShape', 'RaggedSplit', 'RaggedTile', 'Reverse', 'S', 'SegmentStack', 'axis[%d]', 'data', 'indices', 'input', 'mask', 'multiples', 'num_partitions', 'partitions', 'ragged.boolean_mask', 'ragged.cross', 'ragged.cross_hashed', 'rank(input)', 'rank(tensor)', 'shape', 'tensor', 'value']

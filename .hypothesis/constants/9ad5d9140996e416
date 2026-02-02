@@ -1,0 +1,4 @@
+# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tensorflow\python\checkpoint\functional_saver.py
+# hypothesis_version: 6.150.2
+
+[1000000.0, '.part', 'CPU', 'CPU:0', 'MultiDeviceSaver', '^s3://.*', '_temp/part', '_wrapped_name', '_wrapped_slice_spec', 'cpu:0', 'num_shards', 'saver_filename']

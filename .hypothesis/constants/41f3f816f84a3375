@@ -1,0 +1,4 @@
+# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\plotly\data\__init__.py
+# hypothesis_version: 6.150.2
+
+['%Y-%m-%d', '-01-01', '.csv.gz', 'Centroid Latitude', 'Centroid Longitude', 'Continent', 'Country', 'Day of Week', 'GDP per Capita', 'Life Expectancy', 'Meal', 'Party Size', 'Payer Gender', 'Population', 'Smokers at Table', 'Tip', 'Total Bill', 'Year', 'carshare', 'centroid_lat', 'centroid_lon', 'company', 'count', 'cudf', 'datasets', 'date', 'election', 'election.geojson.gz', 'experiment', 'gapminder', 'iris', 'medal', 'medals', 'modin', 'modin.pandas', 'nation', 'package_data', 'pandas', 'participant', 'polars', 'pyarrow', 'pyarrow.csv', 'r', 'stocks', 'tips', 'utf-8', 'wind', 'year']

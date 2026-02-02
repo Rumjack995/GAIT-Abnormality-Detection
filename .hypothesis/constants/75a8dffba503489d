@@ -1,0 +1,4 @@
+# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pyasn1\type\useful.py
+# hypothesis_version: 6.150.2
+
+[1000, 3600, '%.2d%.2d', '%Y%m%d%H%M%S', '%y%m%d%H%M%S', '+', ',', '-', '.', '.%d', '00', '0000', '?', 'GeneralizedTime', 'ObjectDescriptor', 'UTC', 'UTCTime', 'Z']

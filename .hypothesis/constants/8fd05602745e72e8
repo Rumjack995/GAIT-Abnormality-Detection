@@ -1,0 +1,4 @@
+# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tensorflow\core\function\trace_type\default_types.py
+# hypothesis_version: 6.150.2
+
+['Attrs', 'Dict', 'List', 'Literal', 'NamedTuple', 'Tuple', 'Weakref', '__wrapped__', 'bool_value', 'float_value', 'int_value', 'nan', 'none_value', 'str_value']

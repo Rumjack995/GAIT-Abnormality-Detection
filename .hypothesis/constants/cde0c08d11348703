@@ -1,0 +1,4 @@
+# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tensorflow\python\ops\parsing_ops.py
+# hypothesis_version: 6.150.2
+
+['%sDependencies', '%sIsScalar', ',', 'ParseExample', 'ParseSequenceExample', 'ParseSingleExample', 'bytes', 'decode_csv', 'decode_json_example', 'decode_raw', 'input_bytes', 'io.decode_csv', 'io.decode_raw', 'io.parse_example', 'parse_example', 'parse_single_example', 'serialized']

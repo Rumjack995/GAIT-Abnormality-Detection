@@ -1,0 +1,4 @@
+# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tensorflow\python\distribute\tpu_strategy.py
+# hypothesis_version: 6.150.2
+
+[1.0, 200, '%s/replica_%d/', ':', 'StaticHashTable', 'TPUStrategy', 'V1', 'V2', '_lazy_scope', 'colocate_with', 'device:TPU:', 'dtype', 'initial_value', 'name', 'num_workers', 'self', 'shape', 'update_%d', '{}/r:{}']

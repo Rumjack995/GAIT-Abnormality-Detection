@@ -1,0 +1,4 @@
+# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\absl\app.py
+# hypothesis_version: 6.150.2
+
+['\n%s\n', '\nUSAGE: %s [flags]\n', '\nflags:\n', '%', '%%', '?', '__main__', 'help', 'helpfull', 'helpshort', 'helpxml', 'only_check_args', 'pdb', 'pdb_post_mortem', 'profile_file', 'run_with_pdb', 'run_with_profiling', 'show full help', 'show this help', 'verbosity']

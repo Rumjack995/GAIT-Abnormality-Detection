@@ -1,0 +1,4 @@
+# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\h5py\version.py
+# hypothesis_version: 6.150.2
+
+['%d.%d', '%d.%d.%d', '.dev{0.dev:d}', '.post{0.post:d}', '_H5PY_VERSION_CLS', 'cython_version', 'h5py', 'hdf5', 'hdf5_build_version', 'maxsize', 'numpy', 'numpy_build_version', 'platform', 'python']

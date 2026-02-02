@@ -1,0 +1,4 @@
+# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tensorflow\python\training\checkpoint_utils.py
+# hypothesis_version: 6.150.2
+
+[',', '/', '/cpu:0', '/part_', '/part_%d', '/part_0', ':0', 'checkpoints_iterator', 'init_from_checkpoint', 'list_variables', 'load_checkpoint', 'load_variable', 'train.list_variables', 'train.load_variable']

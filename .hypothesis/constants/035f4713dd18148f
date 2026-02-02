@@ -1,0 +1,4 @@
+# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tensorflow\python\autograph\converters\return_statements.py
+# hypothesis_version: 6.150.2
+
+['None', 'do_return', 'not control_var', 'retval_', 'used: {}']

@@ -1,0 +1,4 @@
+# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tensorflow\python\ops\tensor_math_operator_overrides.py
+# hypothesis_version: 6.150.2
+
+['__abs__', '__eq__', '__ge__', '__gt__', '__invert__', '__le__', '__lt__', '__ne__', '__neg__', 'add', 'and', 'div', 'floordiv', 'matmul', 'mod', 'mul', 'or', 'pow', 'sub', 'truediv', 'xor']

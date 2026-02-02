@@ -1,0 +1,4 @@
+# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\keras\src\layers\preprocessing\image_preprocessing\bounding_boxes\converters.py
+# hypothesis_version: 6.150.2
+
+['center_xywh', 'center_yxhw', 'float32', 'tensorflow', 'xyxy']

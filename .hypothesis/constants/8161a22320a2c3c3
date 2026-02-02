@@ -1,0 +1,4 @@
+# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tensorflow\python\ops\variables.py
+# hypothesis_version: 6.150.2
+
+[100, '%d', '%d,%d', ',', '/ConcatPartitions/', '/cpu:0', '2017-03-02', ':', ':0', 'AutoReloadVariable', 'If', 'ReadVariableOp', 'RefSwitch', 'Switch', 'Use ref() instead.', 'VarHandleOp', 'VarIsInitializedOp', 'Variable', 'VariableAggregation', 'VariableV2', '_', '__eq__', '__getitem__', '__ne__', '_variable_call', 'all_variables', 'caching_device', 'global_variables', 'init', 'initialize_variables', 'local_variables', 'model_variables', 'trainable_variables']

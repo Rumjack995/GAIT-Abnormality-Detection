@@ -1,0 +1,4 @@
+# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\keras\src\applications\resnet_v2.py
+# hypothesis_version: 6.150.2
+
+[128, 256, 512, 1000, '__doc__', 'conv2', 'conv3', 'conv4', 'conv5', 'imagenet', 'resnet101v2', 'resnet152v2', 'resnet50v2', 'softmax', 'tf']

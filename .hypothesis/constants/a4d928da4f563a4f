@@ -1,0 +1,4 @@
+# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tensorflow\python\ops\stateful_random_ops.py
+# hypothesis_version: 6.150.2
+
+[0.0, 1.0, 18446744073709551615, 'CentralStorage', 'StateVar', 'binomial', 'counts', 'int64', 'max', 'mean', 'min', 'name', 'probs', 'random.Generator', 'random_generator', 'shape', 'stateful_normal', 'stateful_uniform', 'stddev', 'truncated_normal']

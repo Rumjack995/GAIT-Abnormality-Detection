@@ -1,0 +1,4 @@
+# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tensorflow\python\saved_model\function_deserialization.py
+# hypothesis_version: 6.150.2
+
+['\n    * ', 'HashTableV2', 'PartitionedCall', 'TRTEngineOp', '^%s(.*)_\\d+$', '_gradient_op_type', '_input_shapes', '_load_{}', '_{}', 'f', 'func', 'function_spec', 'guess_conversion', 'list', 'self', 'shared_name', 'value']

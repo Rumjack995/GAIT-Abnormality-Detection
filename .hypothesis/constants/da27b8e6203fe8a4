@@ -1,0 +1,4 @@
+# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\h5py\_hl\dataset.py
+# hypothesis_version: 6.150.2
+
+['"%s"', '(anonymous)', ', ', '=f4', 'C', 'Dataset', 'O', 'S', 'T', 'V', '_fast_reader', '_selector', 'fletcher32', 'gzip', 'lzf', 'scaleoffset', 'shape', 'shuffle', 'size', 'strict', 'szip', 'utf-8']

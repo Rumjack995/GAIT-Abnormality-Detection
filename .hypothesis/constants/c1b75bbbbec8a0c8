@@ -1,0 +1,4 @@
+# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tensorflow\python\training\training.py
+# hypothesis_version: 6.150.2
+
+['train.BytesList', 'train.ClusterDef', 'train.Example', 'train.Feature', 'train.FeatureList', 'train.FeatureLists', 'train.Features', 'train.FloatList', 'train.Int64List', 'train.JobDef', 'train.SaverDef', 'train.ServerDef']

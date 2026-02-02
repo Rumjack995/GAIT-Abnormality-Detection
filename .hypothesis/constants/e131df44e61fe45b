@@ -1,0 +1,4 @@
+# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tensorflow\python\ops\io_ops.py
+# hypothesis_version: 6.150.2
+
+['IdentityReader', 'LMDBReader', 'ReaderBase', 'ReaderRead', 'ReaderReadUpTo', 'ReaderReset', 'ReaderRestoreState', 'ReaderSerializeState', 'TFRecordReader', 'TextLineReader', 'WholeFileReader', 'io.read_file', 'io.serialize_tensor', 'read_file', 'restore_slice', 'save', 'serialize_tensor']

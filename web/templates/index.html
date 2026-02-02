@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gait Analysis AI - Medical Dashboard</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <!-- PDF Generation Libraries -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+    <!-- Chart.js for Kinematic Graphs -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <h1>Gait Analysis <span class="highlight">AI</span></h1>
+            <p>Medical-Grade Biomechanical Assessment System</p>
+        </header>
+
+        <main>
+            <!-- Top Section: Upload & Video -->
+            <div class="top-section">
+                <div class="upload-area" id="drop-zone">
+                    <div class="icon">📁</div>
+                    <h3>Drag & Drop Video</h3>
+                    <p>or click to browse (MP4, AVI, MOV)</p>
+                    <input type="file" id="file-input" accept=".mp4,.avi,.mov,.mkv,.webm" hidden>
+                </div>
+
+                <div class="video-preview-container" id="video-container" style="display: none;">
+                    <div class="video-wrapper">
+                        <video id="video-preview" controls></video>
+                        <canvas id="skeleton-overlay"></canvas>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Loading Spinner -->
+            <div class="processing-overlay" id="loading">
+                <div class="spinner"></div>
+                <p>Extracting Poses & Analyzing Biomechanics...</p>
+            </div>
+
+            <!-- Analysis Dashboard -->
+            <div class="results-container" id="results" style="display: none;">
+
+                <div class="results-header"
+                    style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; flex-wrap: wrap; gap: 10px;">
+                    <h2 style="margin:0;">Analysis Report</h2>
+                    <div style="display: flex; gap: 10px;">
+                        <button onclick="resetAnalysis()" class="secondary-btn"
+                            style="padding: 10px 20px; background: #333; color: white; border: 1px solid #555; cursor: pointer; border-radius: 6px;">🔄
+                            New</button>
+                        <button onclick="generatePDF()" class="primary-btn"
+                            style="padding: 10px 20px; background: #4361ee; color: white; border: none; cursor: pointer; border-radius: 6px; font-weight: 500;">Download
+                            PDF 📥</button>
+                    </div>
+                </div>
+
+                <!-- Classification & Confidence -->
+                <div class="classification-panel">
+                    <div class="verdict">
+                        <h2>Prediction: <span id="prediction-text" class="status-normal">Normal</span></h2>
+                        <div class="confidence-bar-wrapper">
+                            <span>Confidence: <span id="confidence-val">0</span>%</span>
+                            <div class="progress-bar">
+                                <div class="fill" id="confidence-fill"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Clinical Metrics Grid -->
+                <div class="metrics-grid">
+                    <div class="metric-card">
+                        <span class="metric-label">Cadence</span>
+                        <span class="metric-value" id="cadence-val">--</span>
+                        <span class="metric-unit">steps/min</span>
+                    </div>
+                    <div class="metric-card">
+                        <span class="metric-label">Symmetry Idx</span>
+                        <span class="metric-value" id="symmetry-val">--</span>
+                        <span class="metric-unit">L/R Ratio</span>
+                    </div>
+                    <div class="metric-card">
+                        <span class="metric-label">Step Width</span>
+                        <span class="metric-value" id="width-val">--</span>
+                        <span class="metric-unit">avg pixels</span>
+                    </div>
+                    <div class="metric-card">
+                        <span class="metric-label">Velocity</span>
+                        <span class="metric-value" id="velocity-val">--</span>
+                        <span class="metric-unit">est. intensity</span>
+                    </div>
+                </div>
+
+                <!-- Kinematic Graphs -->
+                <div class="charts-section">
+                    <div class="chart-container">
+                        <h3>Knee Flexion/Extension</h3>
+                        <canvas id="kneeChart"></canvas>
+                    </div>
+                    <div class="chart-container">
+                        <h3>Hip Range of Motion</h3>
+                        <canvas id="hipChart"></canvas>
+                    </div>
+                </div>
+
+                <!-- Clinician Input Panel (Review & Suggestions) -->
+                <div class="clinical-input-panel">
+                    <h3>Clinician Notes & Assessment</h3>
+                    <div class="input-grid">
+                        <div class="form-group">
+                            <label for="severity-select">Gait Severity Grade</label>
+                            <select id="severity-select">
+                                <option value="" selected disabled>Select Severity...</option>
+                                <option value="0">Grade 0: Normal / No Impairment</option>
+                                <option value="1">Grade 1: Mild (Slight asymmetry)</option>
+                                <option value="2">Grade 2: Moderate (Visible compensation)</option>
+                                <option value="3">Grade 3: Severe (Risk of falls)</option>
+                                <option value="4">Grade 4: Critical (Unable to walk independently)</option>
+                            </select>
+                        </div>
+                        <div class="form-group full-width">
+                            <label for="clinical-notes">Observations / Suggestions</label>
+                            <textarea id="clinical-notes" rows="3"
+                                placeholder="Enter clinical observations, patient complaints, or recommendations..."></textarea>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Detailed Probabilities -->
+                <div class="details-panel">
+                    <h3>Differential Diagnosis</h3>
+                    <div id="prob-list" class="prob-list"></div>
+                </div>
+
+            </div>
+
+            <div class="error-message" id="error-msg"></div>
+        </main>
+
+        <footer>
+            <div class="status-indicator">
+                <span class="dot" id="model-status-dot"></span>
+                <span id="model-status-text">Checking system status...</span>
+            </div>
+        </footer>
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+
+</html>

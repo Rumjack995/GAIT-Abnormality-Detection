@@ -1,0 +1,4 @@
+# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tensorflow\python\framework\constant_op.py
+# hypothesis_version: 6.150.2
+
+[b'Fill', b'Identity', b'Reshape', 100, '/device:CPU:0', 'Const', 'T', 'Tshape', 'constant', 'index_type', 'numpy_value', 'shape_as_tensor', 'tensor_value', 'tf.constant', 'value']

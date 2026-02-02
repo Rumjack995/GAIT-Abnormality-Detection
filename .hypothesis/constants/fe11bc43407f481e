@@ -1,0 +1,4 @@
+# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tensorflow\python\ops\parsing_config.py
+# hypothesis_version: 6.150.2
+
+['FixedLenFeature', 'RaggedFeature', 'RowLengths', 'RowLimits', 'RowSplits', 'RowStarts', 'SparseFeature', 'UniformRowLength', 'ValueRowIds', 'VarLenFeature', '[^A-Za-z0-9_.\\-/]', '_', 'allow_missing', 'already_sorted', 'default_value', 'dtype', 'index_key', 'io.FixedLenFeature', 'io.RaggedFeature', 'io.SparseFeature', 'io.VarLenFeature', 'key', 'key_', 'length', 'padding_', 'partitions', 'row_splits_dtype', 'shape', 'size', 'validate', 'value_key']

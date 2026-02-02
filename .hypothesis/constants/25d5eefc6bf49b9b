@@ -1,0 +1,4 @@
+# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tensorflow\python\ops\control_flow_grad.py
+# hypothesis_version: 6.150.2
+
+['Enter', 'Exit', 'LoopCond', 'Merge', 'NextIteration', 'RefEnter', 'RefExit', 'RefMerge', 'RefNextIteration', 'RefSwitch', 'Switch', 'b_exit', 'b_switch', 'cond_grad', 'cond_resource_grad', 'is_constant']

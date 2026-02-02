@@ -1,0 +1,4 @@
+# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\plotly\express\__init__.py
+# hypothesis_version: 6.150.2
+
+['Constant', 'IdentityMap', 'NO_COLOR', 'Range', 'area', 'bar', 'bar_polar', 'box', 'choropleth', 'choropleth_map', 'choropleth_mapbox', 'colors', 'data', 'density_contour', 'density_heatmap', 'density_map', 'density_mapbox', 'ecdf', 'funnel', 'funnel_area', 'histogram', 'icicle', 'imshow', 'line', 'line_3d', 'line_geo', 'line_map', 'line_mapbox', 'line_polar', 'line_ternary', 'numpy', 'parallel_categories', 'parallel_coordinates', 'pie', 'scatter', 'scatter_3d', 'scatter_geo', 'scatter_map', 'scatter_mapbox', 'scatter_matrix', 'scatter_polar', 'scatter_ternary', 'strip', 'sunburst', 'timeline', 'treemap', 'trendline_functions', 'violin']

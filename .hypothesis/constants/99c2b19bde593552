@@ -1,0 +1,4 @@
+# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tensorflow\lite\python\convert.py
+# hypothesis_version: 6.150.2
+
+['SELECT_TF_OPS', 'TFLITE_BUILTINS', 'TFLITE_BUILTINS_INT8', 'debug_info', 'inference_type flag', 'input_shapes', 'lite.OpsSet', 'lite.toco_convert', 'saved_model_dir', 'utf-8']

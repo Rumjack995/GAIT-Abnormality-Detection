@@ -1,0 +1,4 @@
+# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\opt_einsum\backends\torch.py
+# hypothesis_version: 6.150.2
+
+['build_expression', 'cpu', 'cuda', 'einsum', 'evaluate_constants', 'tensordot', 'to_torch', 'torch', 'transpose', '{},{}->{}']

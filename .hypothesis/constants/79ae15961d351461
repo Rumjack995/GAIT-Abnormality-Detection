@@ -1,0 +1,4 @@
+# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\keras\src\backend\common\variables.py
+# hypothesis_version: 6.150.2
+
+['.', '/', '__iter__', '__name__', '__str__', '_value', 'auto', 'autocast_scope', 'bfloat', 'float', 'int', 'jax', 'jax.numpy', 'mean', 'name', 'none', 'on_read', 'on_write', 'only_first_replica', 'sum', 'tensorflow', 'torch', 'uint']

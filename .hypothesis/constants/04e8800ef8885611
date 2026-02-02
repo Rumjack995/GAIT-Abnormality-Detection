@@ -1,0 +1,4 @@
+# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tensorflow\python\ops\init_ops_v2.py
+# hypothesis_version: 6.150.2
+
+[-0.05, 0.0, 0.05, 0.8796256610342398, 1.0, 2.0, 3.0, 'constant_initializer', 'distribution', 'dtype', 'fan_avg', 'fan_in', 'fan_out', 'gain', 'maxval', 'mean', 'minval', 'mode', 'normal', 'ones_initializer', 'partition_offset', 'partition_shape', 'scale', 'seed', 'stddev', 'truncated_normal', 'uniform', 'untruncated_normal', 'value', 'zeros_initializer']

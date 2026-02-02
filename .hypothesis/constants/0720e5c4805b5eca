@@ -1,0 +1,4 @@
+# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\keras\src\ops\einops.py
+# hypothesis_version: 6.150.2
+
+['(', '\\(([\\w\\s]+)\\)', '\\s*->\\s*', '\\w+', '\\w+|\\(.*?\\)', 'keras.ops.rearrange']

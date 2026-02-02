@@ -1,0 +1,4 @@
+# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tensorflow\python\autograph\pyct\inspect_utils.py
+# hypothesis_version: 6.150.2
+
+['<lambda>', '__call__', '__class__', '__code__', '__dict__', '__file__', '__future__', '__module__', '__name__', '__self__', '__slots__', '_fields', 'im_func', '{}.{}']

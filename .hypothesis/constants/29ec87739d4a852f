@@ -1,0 +1,4 @@
+# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tensorflow\compiler\mlir\quantization\tensorflow\calibrator\calibration_algorithm.py
+# hypothesis_version: 6.150.2
+
+[1e-09, 100.0, 9000000000.0, 512, 'inf', 'left', 'right']

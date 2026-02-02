@@ -1,0 +1,4 @@
+# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\keras\src\ops\core.py
+# hypothesis_version: 6.150.2
+
+['bool', 'function', 'int', 'keras.ops.cast', 'keras.ops.cond', 'keras.ops.dtype', 'keras.ops.fori_loop', 'keras.ops.is_tensor', 'keras.ops.map', 'keras.ops.scan', 'keras.ops.scatter', 'keras.ops.shape', 'keras.ops.slice', 'keras.ops.switch', 'keras.ops.unstack', 'keras.ops.while_loop']

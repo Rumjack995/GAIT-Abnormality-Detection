@@ -1,0 +1,4 @@
+# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tensorflow\python\framework\sparse_tensor.py
+# hypothesis_version: 6.150.2
+
+['SparseTensor', 'SparseTensorSpec', 'SparseTensorValue', '_dtype', '_shape', 'dense_shape', 'div', 'indices', 'mul', 'shape', 'sp_values', 'sparse.SparseTensor', 'tf.SparseTensorSpec', 'truediv', 'values', 'y']
