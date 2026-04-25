@@ -1,4 +1,0 @@
-# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tensorflow\python\framework\type_spec.py
-# hypothesis_version: 6.150.2
-
-['%s%r', '%s._serialize()', '%s._to_components()', '%s.value_type', 'TypeSpec', '__batch_encoder__', '_cached_cmp_key', 'core_types.Symbol', 'type_spec_from_value']

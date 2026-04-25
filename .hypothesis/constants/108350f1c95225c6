@@ -1,4 +1,0 @@
-# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\mediapipe\python\solutions\pose.py
-# hypothesis_version: 6.150.2
-
-[0.5, 'enable_segmentation', 'image', 'model_complexity', 'pose_landmarks', 'pose_world_landmarks', 'presence', 'segmentation_mask', 'smooth_landmarks', 'smooth_segmentation', 'use_prev_landmarks']

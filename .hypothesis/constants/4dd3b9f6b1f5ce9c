@@ -1,4 +1,0 @@
-# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\keras\src\dtype_policies\dtype_policy.py
-# hypothesis_version: 6.150.2
-
-[1024, '/', 'DTypePolicy', 'FloatDTypePolicy', '__array__', '_from_', 'amax_history_length', 'bfloat16', 'dtype_policy', 'float16', 'float32', 'float8', 'gptq', 'int4', 'int8', 'keras.DTypePolicy', 'mixed_bfloat16', 'mixed_float16', 'mode', 'name', 'source_name']

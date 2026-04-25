@@ -1,4 +1,0 @@
-# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\mediapipe\tasks\python\vision\pose_landmarker.py
-# hypothesis_version: 6.150.2
-
-[0.5, 1000, ':', 'IMAGE', 'NORM_LANDMARKS', 'NORM_RECT', 'PoseLandmarker', 'SEGMENTATION_MASK', 'WORLD_LANDMARKS', 'image_in', 'image_out', 'norm_landmarks', 'norm_rect_in', 'segmentation_mask', 'world_landmarks']

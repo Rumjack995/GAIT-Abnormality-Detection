@@ -1,4 +1,0 @@
-# file: C:\Users\ytpsy\Desktop\Projects\major project v1\gait_analysis\feature_extraction\data_augmentation.py
-# hypothesis_version: 6.150.2
-
-[0.0, 0.01, 0.02, 0.03, 0.05, 0.1, 0.15, 0.2, 0.3, 0.5, 0.6, 0.7, 0.8, 0.9, 1.1, 1.2, 1.3, 10.0, 15.0, 20.0, 100, 500, 'augmentation_factor', 'flip_probability', 'frame_dropout', 'horizontal_flip', 'noise', 'noise_std', 'parameters', 'rotation', 'rotation_range', 'scale_range', 'scaling', 'strategies', 'temporal_shift', 'time_stretch', 'total_augmented_size']

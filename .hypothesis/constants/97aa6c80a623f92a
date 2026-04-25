@@ -1,4 +1,0 @@
-# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\keras\src\layers\rnn\simple_rnn.py
-# hypothesis_version: 6.150.2
-
-[0.0, 1.0, 'activation', 'activity_regularizer', 'bias', 'bias_constraint', 'bias_initializer', 'bias_regularizer', 'cell', 'dropout', 'dtype', 'glorot_uniform', 'kernel', 'kernel_constraint', 'kernel_initializer', 'kernel_regularizer', 'orthogonal', 'recurrent_constraint', 'recurrent_dropout', 'recurrent_kernel', 'seed', 'simple_rnn_cell', 'tanh', 'trainable', 'units', 'use_bias', 'zeros']

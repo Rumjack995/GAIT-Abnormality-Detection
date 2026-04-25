@@ -1,4 +1,0 @@
-# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\plotly\express\_doc.py
-# hypothesis_version: 6.150.2
-
-['\nReturns\n-------\n', '%s: %s\n%s\n', '(required)', 'Between 0 and 20.', 'Positive integer', 'Positive integer.', 'Sets map zoom level.', 'The figure subtitle.', 'The figure title.', 'Valid CSS color.', 'bool', 'dict', 'float', 'int', 'int (default 50)', 'int (default `20`)', 'int (default `8`)', 'int (default `90`)', 'int (default `None`)', 'int (default is 30)', 'list of str', 'list of two numbers', 'str', 'str ', 'str (default `None`)']

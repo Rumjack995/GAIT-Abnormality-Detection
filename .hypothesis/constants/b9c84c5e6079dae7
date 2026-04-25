@@ -1,4 +1,0 @@
-# file: C:\Users\ytpsy\Desktop\Projects\major project v1\gait_analysis\training\error_handling.py
-# hypothesis_version: 6.150.2
-
-['%Y%m%d_%H%M%S', 'Model is None', 'accuracy', 'batch', 'checkpoint_info.json', 'checkpoints/', 'cuda', 'directory', 'epoch', 'error_types', 'file', 'gpu', 'history', 'inf', 'invalid argument', 'latest_error', 'logs', 'logs/', 'loss', 'message', 'model', 'model_weights.h5', 'nan', 'not compiled', 'oom', 'optimizer', 'optimizer_state.pkl', 'out of memory', 'r', 'rb', 'recovery_suggestions', 'shape', 'timestamp', 'total_errors', 'type', 'val_accuracy', 'val_loss', 'w', 'wb']

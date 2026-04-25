@@ -1,4 +1,0 @@
-# file: C:\Users\ytpsy\Desktop\Projects\major project v1\gait_analysis\models\cnn_3d.py
-# hypothesis_version: 6.150.2
-
-[1e-07, 0.001, 0.25, 0.3, 0.5, 0.9, 128, 224, 'Model not built yet', 'accuracy', 'adam', 'best_3dcnn_model.h5', 'bn_1', 'bn_2', 'bn_3', 'conv3d_1', 'conv3d_2', 'conv3d_3', 'dense_1', 'dropout_1', 'dropout_2', 'dropout_3', 'dropout_dense', 'float32', 'global_avg_pool', 'lightweight_3dcnn', 'maxpool_1', 'maxpool_2', 'maxpool_3', 'mixed_float16', 'predictions', 'relu', 'rmsprop', 'same', 'sgd', 'softmax', 'val_accuracy', 'val_loss', 'video_input']

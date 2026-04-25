@@ -1,4 +1,0 @@
-# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\mediapipe\python\solution_base.py
-# hypothesis_version: 6.150.2
-
-[33333, ',', '.', '/', ':', '::mediapipe::Image', '::mediapipe::Joint', '::mediapipe::Matrix', '::mediapipe::Rect', '::mediapipe::Trigger', '::std::vector<bool>', '::std::vector<float>', '::std::vector<int64>', '::std::vector<int>', '>', 'CopyFrom', 'LogicCalculator', 'OneOf<', 'PacketDataType', 'SolutionOutputs', 'append', 'bool', 'bool_list', 'create_', 'float', 'float_list', 'get_', 'image', 'image_frame', 'image_list', 'int', 'int64', 'int_list', 'items', 'matrix', 'options', 'proto', 'proto_list', 'string']

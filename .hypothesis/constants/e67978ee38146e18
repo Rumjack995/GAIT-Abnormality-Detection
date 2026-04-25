@@ -1,4 +1,0 @@
-# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\narwhals\stable\v1\typing.py
-# hypothesis_version: 6.150.2
-
-['DataFrameLike', 'DataFrameT', 'DataFrame[Any]', 'Expr', 'Frame', 'FrameT', 'IntoDataFrame', 'IntoDataFrameT', 'IntoExpr', 'IntoFrame', 'IntoFrameT', 'IntoLazyFrame', 'IntoLazyFrameT', 'IntoSeries', 'IntoSeriesT', 'LazyFrame[Any]', 'NativeDataFrame', 'NativeLazyFrame', 'NativeSeries', 'Series[Any]']

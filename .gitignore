@@ -52,6 +52,10 @@ data/*.h5
 data/*.npy
 data/*.csv
 data/*.json
+data/*.mkv
+data/*.npz
+data/*.llc
+data/trimmed/
 data.zip
 
 # Web uploads

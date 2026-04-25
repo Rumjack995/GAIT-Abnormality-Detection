@@ -1,4 +1,0 @@
-# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\keras\src\layers\convolutional\base_depthwise_conv.py
-# hypothesis_version: 6.150.2
-
-['activation', 'activity_regularizer', 'bias', 'bias_constraint', 'bias_initializer', 'bias_regularizer', 'channels_last', 'data_format', 'depth_multiplier', 'depthwise_constraint', 'dilation_rate', 'glorot_uniform', 'kernel', 'kernel_size', 'padding', 'strides', 'use_bias', 'valid', 'zeros']

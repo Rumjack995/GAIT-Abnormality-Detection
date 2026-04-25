@@ -1,4 +1,0 @@
-# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\mediapipe\tasks\python\vision\gesture_recognizer.py
-# hypothesis_version: 6.150.2
-
-[0.5, 1000, ':', 'GestureRecognizer', 'HANDEDNESS', 'HAND_GESTURES', 'IMAGE', 'LANDMARKS', 'NORM_RECT', 'WORLD_LANDMARKS', 'hand_gestures', 'handedness', 'image_in', 'image_out', 'landmarks', 'norm_rect_in', 'world_landmarks']

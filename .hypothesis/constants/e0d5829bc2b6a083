@@ -1,4 +1,0 @@
-# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tensorflow\python\distribute\distribute_utils.py
-# hypothesis_version: 6.150.2
-
-['LazyVariableClass', 'VariableClass', '_distribute_strategy', '_fields', '_initializer_op', '_is_mirrored', '_make', '_use_var_policy', 'aggregation', 'caching_device', 'collections', 'handle', 'is_distributed_table', 'name', 'sum', 'synchronization', 'trainable', 'v[0]: %r  v[i]: %r']

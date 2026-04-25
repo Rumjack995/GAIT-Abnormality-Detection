@@ -1,4 +1,0 @@
-# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tensorflow\python\autograph\pyct\cfg.py
-# hypothesis_version: 6.150.2
-
-['  %s -> %s;\n', '  %s [label="%s"];\n', '%s added twice', 'Empty finally?', 'Graph', 'class %s', 'def %s', 'digraph CFG {\n', 'entry', 'error', 'exit', 'index', 'stmt_next', 'stmt_prev', '}']

@@ -1,4 +1,0 @@
-# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tensorflow\python\trackable\data_structures.py
-# hypothesis_version: 6.150.2
-
-['%d', '-non_string_key', 'Abstract method', 'DictWrapper(%s)', 'List(%s)', 'ListWrapper(%s)', 'Mapping(%s)', '_TupleWrapper(%s)', '__wrapped__', '_attribute_sentinel', '_storage', 'losses', 'trainable_variables', 'updates', 'value']

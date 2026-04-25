@@ -1,4 +1,0 @@
-# file: C:\Users\ytpsy\Desktop\Projects\major project v1\gait_analysis\utils\config.py
-# hypothesis_version: 6.150.2
-
-['.', 'BATCH_SIZE', 'CUDA_VISIBLE_DEVICES', 'batch_size', 'config.yaml', 'hardware', 'models', 'pose', 'r', 'training', 'use_gpu', 'video', 'w']

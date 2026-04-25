@@ -1,4 +1,0 @@
-# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tensorflow\python\autograph\converters\logical_expressions.py
-# hypothesis_version: 6.150.2
-
-['SAFE_BOOLEAN_OPERAND', 'ag__.and_', 'ag__.eq', 'ag__.not_', 'ag__.not_eq', 'ag__.or_', 'arg1 is arg2', 'func_name(arg)', 'lambda: expr']

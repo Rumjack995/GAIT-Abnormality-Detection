@@ -1,4 +1,0 @@
-# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tensorflow\python\eager\monitoring.py
-# hypothesis_version: 6.150.2
-
-[1000000, 'BoolGauge', 'Counter', 'IntGauge', 'MetricMethod', 'Sampler', 'StringGauge', '_cell', '_counting', '_label_length', '_metric', '_metric_methods', '_metric_name', 'buckets', 'cell', 't', 'utf-8']

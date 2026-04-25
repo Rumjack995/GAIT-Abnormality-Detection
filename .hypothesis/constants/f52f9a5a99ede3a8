@@ -1,4 +1,0 @@
-# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\seaborn\relational.py
-# hypothesis_version: 6.150.2
-
-[0.08, 0.2, 0.5, 0.75, 1000, '@columns', '@index', '@values', 'all', 'alpha', 'auto', 'ax', 'band', 'bars', 'c', 'ci', 'col', 'color', 'dashes', 'deprecated', 'ec', 'edgecolor', 'facecolor', 'fc', 'hue', 'line', 'lineplot', 'lines.linewidth', 'lines.markersize', 'linestyle', 'linewidth', 'ls', 'lw', 'm', 'marker', 'markeredgecolor', 'markeredgewidth', 'markersize', 'mean', 'mec', 'mew', 'ms', 'o', 'params', 'path', 'plot', 'relplot', 'returns', 'row', 's', 'scatter', 'scatterplot', 'seealso', 'size', 'style', 'units', 'w', 'weight', 'weights', 'x', 'xy', 'y']

@@ -1,4 +1,0 @@
-# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tensorflow\python\distribute\failure_handling\failure_handling_util.py
-# hypothesis_version: 6.150.2
-
-[143, 200, 3600, 'BLOCK_TILL_EXIT', 'GCE_CPU', 'GCE_GPU', 'GCE_METADATA_IP', 'GCE_TPU', 'GPU', 'Google', 'Metadata-Flavor', 'TPU', 'http://', 'instance/hostname', 'internal_CPU', 'internal_GPU', 'internal_TPU', 'unsupported', 'utf-8']

@@ -1,4 +1,0 @@
-# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tensorflow\python\framework\device_spec.py
-# hypothesis_version: 6.150.2
-
-['*', '/', '/device:%s:%s', '/job:', '/replica:', '/task:', ':', 'CPU', 'CUSTOM', 'DeviceSpec', 'EPU', 'GPU', 'TPU', '_as_string', '_device_index', '_device_type', '_hash', '_job', '_replica', '_task', 'cpu', 'device', 'gpu', 'job', 'replica', 'task']

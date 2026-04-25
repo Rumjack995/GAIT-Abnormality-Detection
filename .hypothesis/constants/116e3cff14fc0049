@@ -1,4 +1,0 @@
-# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\keras\src\layers\preprocessing\index_lookup.py
-# hypothesis_version: 6.150.2
-
-['binary', 'constant', 'count', 'dtype', 'has_input_vocabulary', 'idf_weights', 'int', 'int64', 'invert', 'mask_token', 'max_tokens', 'multi_hot', 'num_oov_indices', 'one_hot', 'oov_token', 'output_mode', 'pad_to_max_tokens', 'r', 'sparse', 'string', 'tf-idf', 'tf_idf', 'trainable', 'utf-8', 'vocabulary', 'vocabulary.txt', 'vocabulary_dtype', 'vocabulary_size', 'w']

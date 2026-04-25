@@ -1,4 +1,0 @@
-# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tensorflow\python\ops\tensor_array_ops.py
-# hypothesis_version: 6.150.2
-
-['TensorArray', 'TensorArrayGrad', 'TensorArrayScatter', 'TensorArraySpec', 'TensorArraySplit', 'TensorArrayStack', 'TensorArrayUnstack', 'TensorArrayV2', 'TensorArrayV2Read', 'TensorArrayV2Stack', 'TensorArrayV2Write', 'TensorArrayWrite', '_dtype', '_dynamic_size', '_element_shape', '_infer_shape', 'convert_tensor_array', 'gradient_flow', 'tf.TensorArraySpec', 'value']

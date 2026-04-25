@@ -1,4 +1,0 @@
-# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tensorflow\python\autograph\impl\api.py
-# hypothesis_version: 6.150.2
-
-['    {}: {}', '0', '<string>', 'Calling %s with\n%s\n', 'Defaults of %s : %s', 'Error converting %s', '__call__', '__class__', '__code__', '__self__', 'ag__', 'ag_error_metadata', 'ag_module', 'ag_pass_through', 'ag_source_map', 'autograph', 'autograph.to_code', 'autograph.to_graph', 'autograph_info__', 'co_filename', 'message', 'node_def', 'op', 'self', 'tf__', '{}: {}']

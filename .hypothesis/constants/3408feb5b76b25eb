@@ -1,4 +1,0 @@
-# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\narwhals\_translate.py
-# hypothesis_version: 6.150.2
-
-['FromArrowDT_contra', 'FromDictDT_contra', 'FromIterableT_contra', 'FromNativeT', 'FromNumpyDT_contra', 'FromNumpyT_contra', 'ToArrowT_co', 'ToDictDT_co', 'ToNarwhalsT_co', 'ToNumpyT_co', 'dict[str, Any]']

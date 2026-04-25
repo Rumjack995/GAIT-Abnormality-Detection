@@ -1,4 +1,0 @@
-# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tensorflow\python\ops\linalg\sparse\sparse_csr_matrix_grad.py
-# hypothesis_version: 6.150.2
-
-['SparseMatrixAdd', 'SparseMatrixMatMul', 'SparseMatrixMul', 'SparseMatrixNNZ', 'SparseMatrixSoftmax', 'SparseMatrixZeros', 'T', 'adjoint_a', 'adjoint_b', 'conjugate', 'conjugate_output', 'transpose_a', 'transpose_b', 'transpose_output', 'type']

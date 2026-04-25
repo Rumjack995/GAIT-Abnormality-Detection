@@ -1,4 +1,0 @@
-# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\keras\src\optimizers\rmsprop.py
-# hypothesis_version: 6.150.2
-
-[0.0, 1e-07, 0.001, 0.9, 0.99, 'average_gradient', 'centered', 'epsilon', 'momentum', 'rho', 'rmsprop', 'velocity']

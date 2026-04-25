@@ -7,11 +7,106 @@
     <title>Gait Analysis AI - Medical Dashboard</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
-    <!-- PDF Generation Libraries -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
-    <!-- Chart.js for Kinematic Graphs -->
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+    <style>
+        /* ── Model Selector ──────────────────────────────────────── */
+        .model-selector {
+            margin: 18px 0 8px;
+            width: 100%;
+        }
+
+        .model-selector h4 {
+            font-size: 0.78rem;
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+            color: #888;
+            margin-bottom: 10px;
+        }
+
+        .model-cards {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 10px;
+        }
+
+        .model-card {
+            position: relative;
+            cursor: pointer;
+        }
+
+        .model-card input[type="radio"] {
+            position: absolute;
+            opacity: 0;
+            width: 0;
+            height: 0;
+        }
+
+        .model-card label {
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+            padding: 12px 10px;
+            background: rgba(255,255,255,0.04);
+            border: 1.5px solid rgba(255,255,255,0.1);
+            border-radius: 10px;
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+
+        .model-card label:hover {
+            border-color: rgba(67,97,238,0.5);
+            background: rgba(67,97,238,0.07);
+        }
+
+        .model-card input[type="radio"]:checked + label {
+            border-color: #4361ee;
+            background: rgba(67,97,238,0.15);
+            box-shadow: 0 0 0 2px rgba(67,97,238,0.25);
+        }
+
+        .model-card .mc-icon { font-size: 1.3rem; }
+        .model-card .mc-name {
+            font-size: 0.78rem;
+            font-weight: 600;
+            color: #e0e0e0;
+        }
+        .model-card .mc-desc {
+            font-size: 0.65rem;
+            color: #888;
+            line-height: 1.4;
+        }
+        .model-card .mc-badge {
+            display: inline-block;
+            margin-top: 4px;
+            font-size: 0.6rem;
+            padding: 2px 6px;
+            border-radius: 20px;
+            background: rgba(67,97,238,0.2);
+            color: #7c9dff;
+            font-weight: 500;
+        }
+        .model-card .mc-badge.not-loaded {
+            background: rgba(255,100,80,0.15);
+            color: #ff8070;
+        }
+
+        /* model badge in results */
+        .model-used-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            font-size: 0.72rem;
+            padding: 4px 10px;
+            background: rgba(67,97,238,0.15);
+            border: 1px solid rgba(67,97,238,0.3);
+            border-radius: 20px;
+            color: #7c9dff;
+            margin-bottom: 10px;
+        }
+    </style>
 </head>
 
 <body>
@@ -24,11 +119,52 @@
         <main>
             <!-- Top Section: Upload & Video -->
             <div class="top-section">
-                <div class="upload-area" id="drop-zone">
-                    <div class="icon">📁</div>
-                    <h3>Drag & Drop Video</h3>
-                    <p>or click to browse (MP4, AVI, MOV)</p>
-                    <input type="file" id="file-input" accept=".mp4,.avi,.mov,.mkv,.webm" hidden>
+                <div id="upload-panel">
+                    <div class="upload-area" id="drop-zone">
+                        <div class="icon">📁</div>
+                        <h3>Drag &amp; Drop Video</h3>
+                        <p>or click to browse (MP4, AVI, MOV)</p>
+                        <input type="file" id="file-input" accept=".mp4,.avi,.mov,.mkv,.webm" hidden>
+                    </div>
+
+                    <!-- ── Model Selector ──────────────────────────────── -->
+                    <div class="model-selector">
+                        <h4>🤖 Select AI Model</h4>
+                        <div class="model-cards" id="model-cards">
+
+                            <div class="model-card">
+                                <input type="radio" name="model" id="model-lstm" value="lstm" checked>
+                                <label for="model-lstm">
+                                    <span class="mc-icon">🔁</span>
+                                    <span class="mc-name">LSTM + Attention</span>
+                                    <span class="mc-desc">Best for long-range temporal patterns</span>
+                                    <span class="mc-badge" id="badge-lstm">Checking...</span>
+                                </label>
+                            </div>
+
+                            <div class="model-card">
+                                <input type="radio" name="model" id="model-cnn_lstm" value="cnn_lstm">
+                                <label for="model-cnn_lstm">
+                                    <span class="mc-icon">⚡</span>
+                                    <span class="mc-name">Conv1D-LSTM</span>
+                                    <span class="mc-desc">Best balance of speed &amp; accuracy</span>
+                                    <span class="mc-badge" id="badge-cnn_lstm">Checking...</span>
+                                </label>
+                            </div>
+
+                            <div class="model-card">
+                                <input type="radio" name="model" id="model-cnn" value="cnn">
+                                <label for="model-cnn">
+                                    <span class="mc-icon">🎯</span>
+                                    <span class="mc-name">Deep 1D-CNN</span>
+                                    <span class="mc-desc">Fastest inference, local patterns</span>
+                                    <span class="mc-badge" id="badge-cnn">Checking...</span>
+                                </label>
+                            </div>
+
+                        </div>
+                    </div>
+                    <!-- ── End Model Selector ─────────────────────────── -->
                 </div>
 
                 <div class="video-preview-container" id="video-container" style="display: none;">
@@ -42,7 +178,7 @@
             <!-- Loading Spinner -->
             <div class="processing-overlay" id="loading">
                 <div class="spinner"></div>
-                <p>Extracting Poses & Analyzing Biomechanics...</p>
+                <p id="loading-text">Extracting Poses &amp; Analyzing Biomechanics...</p>
             </div>
 
             <!-- Analysis Dashboard -->
@@ -50,7 +186,10 @@
 
                 <div class="results-header"
                     style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; flex-wrap: wrap; gap: 10px;">
-                    <h2 style="margin:0;">Analysis Report</h2>
+                    <div>
+                        <h2 style="margin:0 0 6px;">Analysis Report</h2>
+                        <div class="model-used-badge">🤖 <span id="model-used-label">—</span></div>
+                    </div>
                     <div style="display: flex; gap: 10px;">
                         <button onclick="resetAnalysis()" class="secondary-btn"
                             style="padding: 10px 20px; background: #333; color: white; border: 1px solid #555; cursor: pointer; border-radius: 6px;">🔄
@@ -110,9 +249,9 @@
                     </div>
                 </div>
 
-                <!-- Clinician Input Panel (Review & Suggestions) -->
+                <!-- Clinician Input Panel -->
                 <div class="clinical-input-panel">
-                    <h3>Clinician Notes & Assessment</h3>
+                    <h3>Clinician Notes &amp; Assessment</h3>
                     <div class="input-grid">
                         <div class="form-group">
                             <label for="severity-select">Gait Severity Grade</label>

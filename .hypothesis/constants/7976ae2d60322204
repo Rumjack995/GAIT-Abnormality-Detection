@@ -1,4 +1,0 @@
-# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tensorflow\lite\tools\optimize\debugging\python\debugger.py
-# hypothesis_version: 6.150.2
-
-[':', 'NumericVerify', '\\d', 'dtype', 'index', 'inputs', 'max_abs_error', 'mean_error', 'mean_squared_error', 'name', 'num_elements', 'op_name', 'outputs', 'scale', 'scales', 'stddev', 'tensor_idx', 'tensor_name', 'zero_point', 'zero_points']

@@ -1,4 +1,0 @@
-# file: C:\Users\ytpsy\Desktop\Projects\major project v1\gait_analysis\models\__init__.py
-# hypothesis_version: 6.150.2
-
-['AttentionLayer', 'EfficientLSTM', 'FusionLayer', 'HybridCNNLSTM', 'LightweightCNN3D']

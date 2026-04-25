@@ -1,4 +1,0 @@
-# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pyasn1\type\char.py
-# hypothesis_version: 6.150.2
-
-['BMPString', 'GeneralString', 'GraphicString', 'IA5String', 'ISO646String', 'NumericString', 'PrintableString', 'T61String', 'TeletexString', 'UTF8String', 'UniversalString', 'VideotexString', 'VisibleString', 'iso-8859-1', 'us-ascii', 'utf-16-be', 'utf-32-be', 'utf-8']

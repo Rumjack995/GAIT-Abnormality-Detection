@@ -1,4 +1,0 @@
-# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tensorflow\core\function\polymorphism\function_type.py
-# hypothesis_version: 6.150.2
-
-['  None', ' for Parameter ', ')', ', kind=', ', optional=', ', type_constraint=', 'Captures:', 'FunctionType', 'Input Parameters:', 'Output Type:', 'Parameter', 'Parameter ', 'Parameter(name=', '_', '_cached_flat_inputs', '_cached_flat_outputs', '_cached_repr', 'arg_', 'self', 'type_constraint', 'type_constraint=']

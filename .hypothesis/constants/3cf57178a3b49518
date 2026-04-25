@@ -1,4 +1,0 @@
-# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\mediapipe\tasks\python\vision\hand_landmarker.py
-# hypothesis_version: 6.150.2
-
-[0.5, 1000, ':', 'HANDEDNESS', 'HandLandmarker', 'IMAGE', 'LANDMARKS', 'NORM_RECT', 'WORLD_LANDMARKS', 'handedness', 'image_in', 'image_out', 'landmarks', 'norm_rect_in', 'world_landmarks']

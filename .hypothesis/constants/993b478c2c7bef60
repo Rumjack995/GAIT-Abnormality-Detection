@@ -1,4 +1,0 @@
-# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\scipy\signal\windows\windows.py
-# hypothesis_version: 6.150.2
-
-['_windows', 'barthann', 'bartlett', 'blackman', 'blackmanharris', 'bohman', 'boxcar', 'chebwin', 'cosine', 'dpss', 'exponential', 'flattop', 'gaussian', 'general_cosine', 'general_gaussian', 'general_hamming', 'get_window', 'hamming', 'hann', 'kaiser', 'nuttall', 'parzen', 'signal.windows', 'taylor', 'triang', 'tukey', 'windows']

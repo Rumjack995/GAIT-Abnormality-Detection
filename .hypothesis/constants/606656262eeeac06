@@ -1,4 +1,0 @@
-# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tensorflow\python\keras\optimizer_v2\optimizer_v2.py
-# hypothesis_version: 6.150.2
-
-[0.0, 1.0, '%s/%s', '...', '/', '/gradients', 'RestoredOptimizer', '_hyper', 'apply_state', 'clipnorm', 'clipvalue', 'decay', 'global_clipnorm', 'iter', 'learning_rate', 'lr', 'lr_t', 'name', 'update', 'update_', 'zeros']

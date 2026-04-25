@@ -1,4 +1,0 @@
-# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tensorflow\python\checkpoint\save_util.py
-# hypothesis_version: 6.150.2
-
-['/cpu:0', '_TrackableData', 'children_proto', 'node_id', 'object_name', 'object_to_save', 'slot_variable_proto', 'trackable']

@@ -1,4 +1,0 @@
-# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tensorflow\python\ops\gen_checkpoint_ops.py
-# hypothesis_version: 6.150.2
-
-[b'GenerateVocabRemapping', b'LoadAndRemapMatrix', 'LoadAndRemapMatrix', 'max_rows_in_memory', 'new_vocab_offset', 'num_cols', 'num_new_vocab', 'num_present', 'num_rows', 'old_vocab_size', 'remapping']

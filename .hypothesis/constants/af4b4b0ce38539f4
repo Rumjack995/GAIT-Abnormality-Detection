@@ -1,4 +1,0 @@
-# file: C:\Users\ytpsy\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tensorflow\python\distribute\combinations.py
-# hypothesis_version: 6.150.2
-
-['GPU', 'NoTfFunction', 'TfFunction', '_TestResult', 'failure', 'has_chief', 'message', 'num_ps', 'num_workers', 'ok', 'required_gpus', 'required_tpu', 'required_tpus', 'runner', 'share_gpu', 'skipped', 'status', 'test_tpu', 'tpu', 'use_cloud_tpu', 'use_var_policy']
